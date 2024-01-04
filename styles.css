@@ -1,0 +1,79 @@
+#main {
+    background-color: rgb(232, 228, 243);
+
+    height: 500px;
+    width: 300px !important;
+    font-family: sans-serif;
+    text-align: ;
+    imag
+
+}
+body{
+    background-color: lightsteelblue;
+}
+#dash {
+    
+}
+
+table {
+    align="right"
+    align-self: start;
+}
+
+h1 {
+    color: blue;
+
+}
+
+.hip:hover {
+    background-color: aqua;
+    color: white;
+
+}
+
+#dash:hover {
+    background-color: blue;
+    color: black
+}
+
+#pro:hover {
+    background-color: blue;
+    color: beige;
+}
+
+#not:hover {
+    background-color:blue;
+    color: beige;
+}
+
+#pro:hover,
+#anal:hover,
+#lik:hover,
+#wall:hover,
+#wall:hover,
+#mess:hover,
+#log:hover,
+#sett:hover {
+    background-color: blue;
+    
+
+}
+
+#code {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+}
+
+#right {
+    font-family: sans-serif;
+    color: black;
+    font-size: 60px;
+}
+#sim{
+    color: blue !important ;
+}
+#sec {
+    
+    font-family: sans-serif;
+}
